@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: COFIG-DEMO
 eureka:
   instance:
     prefer-ip-address: true
