@@ -1,3 +1,5 @@
+replica:
+  count: 1
 spring:
   application:  
     name: USER-SERVICE
