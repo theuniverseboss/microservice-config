@@ -1,3 +1,5 @@
+replica:
+  count: 2
 spring:
   application:
     name: CONFIG-TEST
